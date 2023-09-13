@@ -1,0 +1,1 @@
+print("Dobriy den' everybody!");
